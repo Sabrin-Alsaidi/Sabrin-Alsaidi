@@ -16,7 +16,7 @@
 ##  📑 MY INFO:
 Check out :<br/>
 [my Resume](https://drive.google.com/file/d/1OMONgUun2Q5KJcEqdY9irh2AYiusnStx/view?usp=sharing)<br/>
-![Gmail Badge](https://img.shields.io/badge/-sabrinalsaidi95-c14438?logo=Gmail&logoColor=white&link=mailto:sabrinalsaidi95@gmail.com)<br/>
+[![Gmail](https://img.shields.io/badge/-sabrinalsaidi95-c14438?logo=Gmail&logoColor=white)](https://mailto:sabrinalsaidi95@gmail.com)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sabrin-al-saidi) 
 
 ## LANGUAGES I USE:
